@@ -24,6 +24,9 @@
 <h2 align="center">🧑‍💻 Contact me 🧑‍💻</h2>
 
 <div align="center"> 
+  <a href="https://velog.io/@yujin_1219">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
   <a href="mailto:yujin1219000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
